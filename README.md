@@ -1,7 +1,7 @@
 # ded23579.github.io
+
 Profil Dedi Ir
-https://ded23579.github.io/
+[dedi.ir](https://ded23579.github.io/)
 
-
-
-https://edu.abjad.eu.org @2025
+by Dedi Ir
+[edu.abjad.eu.org](https://edu.abjad.eu.org) @2025
